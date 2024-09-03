@@ -1,0 +1,147 @@
+[
+  {
+    "id": "1",
+    "path": "/nav",
+    "sections": [
+      {
+        "id": "1-1",
+        "blocks": [],
+        "settings": {}
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "path": "/index",
+    "sections": [
+      {
+        "id": "2-1",
+        "blocks": [
+          {
+            "id": "box-id-1488405154",
+            "x": 113,
+            "y": 916,
+            "width": 1042,
+            "height": 553,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]",
+            "layout": {
+              "numCols": 3,
+              "numRows": 2
+            },
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                "xpathWithDetails": "id(\"container-c51b7397f6\")/div[@class=\"productcategory\"]/div[@class=\"cmp-product-category-listing\"]/div[@class=\"cmp-product-category-listing__content\"]/div[@class=\"cmp-categorylist cmp-categorylist--anchor\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                "xpathWithDetails": "id(\"container-c51b7397f6\")/div[@class=\"productcategory\"]/div[@class=\"cmp-product-category-listing\"]/div[@class=\"cmp-product-category-listing__content\"]/div[@class=\"cmp-categorylist cmp-categorylist--anchor\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+                "xpathWithDetails": "id(\"container-c51b7397f6\")/div[@class=\"productcategory\"]/div[@class=\"cmp-product-category-listing\"]/div[@class=\"cmp-product-category-listing__content\"]/div[@class=\"cmp-categorylist cmp-categorylist--anchor\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+                "xpathWithDetails": "id(\"container-c51b7397f6\")/div[@class=\"productcategory\"]/div[@class=\"cmp-product-category-listing\"]/div[@class=\"cmp-product-category-listing__content\"]/div[@class=\"cmp-categorylist cmp-categorylist--anchor\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[5]",
+                "xpathWithDetails": "id(\"container-c51b7397f6\")/div[@class=\"productcategory\"]/div[@class=\"cmp-product-category-listing\"]/div[@class=\"cmp-product-category-listing__content\"]/div[@class=\"cmp-categorylist cmp-categorylist--anchor\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[6]",
+                "xpathWithDetails": "id(\"container-c51b7397f6\")/div[@class=\"productcategory\"]/div[@class=\"cmp-product-category-listing\"]/div[@class=\"cmp-product-category-listing__content\"]/div[@class=\"cmp-categorylist cmp-categorylist--anchor\"]"
+              }
+            ],
+            "color": "rgba(148, 0, 211, 0.2)",
+            "mapping": "cards",
+            "customBlockName": ""
+          },
+          {
+            "id": "box-id--1675144065",
+            "x": 0,
+            "y": 2794,
+            "width": 1268,
+            "height": 312,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[5]",
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "color": "rgba(148, 0, 211, 0.3)",
+            "mapping": "hero",
+            "customBlockName": ""
+          },
+          {
+            "id": "box-id--1487499098",
+            "x": 113,
+            "y": 3256,
+            "width": 1042,
+            "height": 557,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[2]",
+            "layout": {
+              "numCols": 1,
+              "numRows": 2
+            },
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]",
+                "xpathWithDetails": "id(\"popidd\")/div[@class=\"cmp-popular-products\"]/div[@class=\"cmp-popular-products__carousel\"]/div[@class=\"slickcarousel carousel panelcontainer\"]/div[@class=\"cmp-carousel\"]/div[@class=\"cmp-carousel__container slick-initialized slick-slider slick-dotted\"]/div[@class=\"slick-list draggable\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/ul[1]",
+                "xpathWithDetails": "id(\"popidd\")/div[@class=\"cmp-popular-products\"]/div[@class=\"cmp-popular-products__carousel\"]/div[@class=\"slickcarousel carousel panelcontainer\"]/div[@class=\"cmp-carousel\"]/div[@class=\"cmp-carousel__container slick-initialized slick-slider slick-dotted\"]/ul[@class=\"slick-dots\"]"
+              }
+            ],
+            "color": "rgba(148, 0, 211, 0.2)",
+            "mapping": "carousel",
+            "customBlockName": ""
+          }
+        ],
+        "settings": {}
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "path": "/footer",
+    "sections": [
+      {
+        "id": "3-1",
+        "blocks": [
+          {
+            "id": "box-id-572343426",
+            "x": 0,
+            "y": 6232,
+            "width": 1268,
+            "height": 392,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+            "layout": {
+              "numCols": 3,
+              "numRows": 1
+            },
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+                "xpathWithDetails": "id(\"container-6ee01be0b1\")/div[@class=\"footer\"]/div[@class=\"container\"]/div[@class=\"cmp-container\"]/div[@class=\"footer\"]/div[@class=\"cmp-footer\"]/div[@class=\"cmp-footer__top-content\"]/div[@class=\"cmp-footer__nav-logo\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+                "xpathWithDetails": "id(\"container-6ee01be0b1\")/div[@class=\"footer\"]/div[@class=\"container\"]/div[@class=\"cmp-container\"]/div[@class=\"footer\"]/div[@class=\"cmp-footer\"]/div[@class=\"cmp-footer__top-content\"]/div[@class=\"cmp-footer__nav-subscribe\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]",
+                "xpathWithDetails": "id(\"container-6ee01be0b1\")/div[@class=\"footer\"]/div[@class=\"container\"]/div[@class=\"cmp-container\"]/div[@class=\"footer\"]/div[@class=\"cmp-footer\"]/div[@class=\"cmp-footer__top-content\"]/div[@class=\"cmp-footer__nav\"]"
+              }
+            ],
+            "color": "rgba(148, 0, 211, 0.3)",
+            "mapping": "columns",
+            "customBlockName": ""
+          }
+        ],
+        "settings": {}
+      }
+    ]
+  }
+]
